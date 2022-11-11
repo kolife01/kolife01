@@ -21,6 +21,3 @@
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-## My Qiita works
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/kolife/posts.svg)](http://qiita.com/kolife) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kolife/contributions.svg)](http://qiita.com/kolife) [![My Qiita followers](https://qiita-badge.apiapi.app/s/kolife/followers.svg)](http://qiita.com/kolife)
-
