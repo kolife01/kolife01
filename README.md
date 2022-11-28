@@ -1,5 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kolife01&count_private=true&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolife01&exclude_repo=setup_dapps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skill
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
