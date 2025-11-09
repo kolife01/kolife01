@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Kolife01 ([@kolife01](https://github.com/kolife01))
-
-I'm a **Full Stack Engineer** specializing in **Python (FastAPI, Flask)** and **TypeScript (Vue, Nuxt, React)**.  
-I design and build scalable backend systems and cloud-native applications on **Google Cloud Platform (GCP)**.  
-Currently, I'm working on **AI-powered search and recommendation systems** using **LLMs and vector search**.
-
----
 
 ### 🧠 Skills
 
